@@ -14,9 +14,9 @@
 
 
 ## PrograM:
-# Name:NARMADHA SREE S
-# Reg no:212223240105
 ```py
+ Name:NARMADHA SREE S
+Reg no:212223240105
 M = 9
 def puzzle(a):
 	for i in range(M):
