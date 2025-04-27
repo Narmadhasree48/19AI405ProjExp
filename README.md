@@ -14,7 +14,8 @@
 
 
 ## PrograM:
-
+# Name:NARMADHA SREE S
+# Reg no:212223240105
 ```py
 M = 9
 def puzzle(a):
